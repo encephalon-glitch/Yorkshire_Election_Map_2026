@@ -32,7 +32,17 @@ Official results sourced directly from Sheffield, Barnsley and Wakefield Metropo
 
 **Built with**
 
-Python · GeoPandas · Folium · Pandas · Branca · Jinja2
+Python 
+
+**Dependencies**
+geopandas
+folium
+mapclassify
+pandas
+branca
+jinja2
+requests
+beautifulsoup4
 
 **Authors**
 
